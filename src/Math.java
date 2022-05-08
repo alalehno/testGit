@@ -16,4 +16,8 @@ public class Math {
         return a - b;
     }
 
+    public static int bigMinus(int a, int b, int c, int d){
+        return a - b - c - d;
+    }
+
 }
