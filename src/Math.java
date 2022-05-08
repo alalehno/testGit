@@ -12,4 +12,8 @@ public class Math {
         return a + b + c + d;
     }
 
+    public static int minus(int a, int b){
+        return a - b;
+    }
+
 }
